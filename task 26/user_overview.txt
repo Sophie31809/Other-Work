@@ -1,0 +1,17 @@
+There are 8 registered users.
+There have been 4 tasks generated.
+The following shows the number of tasks shown to each user:
+admin: 1 tasks, 25.0% of all tasks 
+	100.0% are completed, 0.0% of tasks are incomplete, and  
+	0.0% of all assigned tasks are overdue. 
+sophie: 1 tasks, 25.0% of all tasks 
+	 0% of tasks are completed, and 100% of tasks are incomplete 
+	0.0% of all assigned tasks are overdue. 
+user: 0 tasks, 0.0% of all tasks 
+arthur: 0 tasks, 0.0% of all tasks 
+testing: 0 tasks, 0.0% of all tasks 
+testing2: 0 tasks, 0.0% of all tasks 
+testingagain: 0 tasks, 0.0% of all tasks 
+spc: 2 tasks, 50.0% of all tasks 
+	 0% of tasks are completed, and 100% of tasks are incomplete 
+	100.0% of all assigned tasks are overdue. 

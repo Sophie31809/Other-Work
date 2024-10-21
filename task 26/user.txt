@@ -1,0 +1,8 @@
+admin, adm1n
+sophie, test
+user, pass
+arthur, squid
+testing, itworked
+testing2, plswork
+testingagain, 1234
+spc, plant
